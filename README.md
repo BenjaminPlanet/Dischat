@@ -1,2 +1,3 @@
 # Dischat
- A chatting place.
+ ## A place for you!
+ ### A chatting place.
